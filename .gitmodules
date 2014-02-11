@@ -1,0 +1,9 @@
+[submodule "dashing"]
+	path = dashing
+	url = git@github.com:Shopify/dashing.git
+[submodule "src/github.com/99designs/goodies"]
+	path = src/github.com/99designs/goodies
+	url = git@github.com:99designs/goodies.git
+[submodule "src/github.com/rk/go-cron"]
+	path = src/github.com/rk/go-cron
+	url = git@github.com:rk/go-cron.git

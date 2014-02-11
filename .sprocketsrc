@@ -1,0 +1,1 @@
+--include=dashing/javascripts/ --include=sample/assets/javascripts/ --include=sample/assets/stylesheets/ --include=sample/widgets/ --output=public/ sample/assets/javascripts/application.coffee sample/assets/stylesheets/application.scss
